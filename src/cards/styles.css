@@ -1,0 +1,118 @@
+.navbar_back
+{
+    background-color: black;
+    
+}
+
+
+.nav_color{
+    color: azure;
+}
+
+.align_text
+{
+margin-left: 100px;
+}
+
+.item1
+{
+    margin-left:105px;
+}
+
+.item5
+{
+    white-space: nowrap; 
+    margin-left: 45px;
+}
+
+.item3
+{
+   margin-left: 50px;
+}
+.item4
+{
+    margin-left:62px;
+}
+
+.item2
+{
+    margin-left: 65px;
+}
+
+.get_in
+{
+    margin-top:140px;
+    margin-left:370px;
+   color: rgb(24, 24, 231); 
+   font-size: 64px;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.help
+{
+    color: rgb(128, 123, 123);
+    margin-left: 360px;
+    font-size: larger;
+}
+
+.box
+{
+    border:1px solid grey;
+    width:90%;
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-right: 40px;
+    border-radius: 5px;
+    height: 200px;
+    background-color: rgb(69, 66, 66);
+    margin-bottom: 22px;
+
+}
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .container {
+    padding: 2px 16px;
+  }
+
+  .buisness_css
+  {
+    text-align: center;
+    color: rgb(10, 10, 190);
+    font-size: 28px;
+  }
+
+ul{
+margin-top: 33px;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+ 
+}
+
+li {
+  float: left;
+}
+
+li  {
+    display: block;
+ margin-left:52px;
+    text-align: center;
+    padding: 28px;
+ 
+}
